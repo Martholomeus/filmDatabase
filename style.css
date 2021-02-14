@@ -1,3 +1,27 @@
-.green {
-  color: green;
+.voorpagina {
+  color: rgb(8, 53, 87);
+  text-align: center;
+}
+
+.button1 {
+  width: 217px;
+  background-color: rgb(0, 49, 83); /* Green */
+  border-style: solid;
+  border-color: black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  margin: 0px 80px 0px 80px;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.buttons {
+  text-align: center;
+}
+
+body {
+  background-color: #1f4f5659;
 }
